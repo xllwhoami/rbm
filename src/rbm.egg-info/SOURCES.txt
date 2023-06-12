@@ -1,7 +1,0 @@
-LICENSE
-README.md
-pyproject.toml
-src/rbm.egg-info/PKG-INFO
-src/rbm.egg-info/SOURCES.txt
-src/rbm.egg-info/dependency_links.txt
-src/rbm.egg-info/top_level.txt
